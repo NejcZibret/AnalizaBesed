@@ -3,3 +3,4 @@ Tukaj napišem en kratek opis projekta, oziroma kaj sploh počnem pri tej projek
 
 ## Avtorji
 - Nejc Zibret
+- se nekdo drug
